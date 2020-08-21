@@ -1,0 +1,35 @@
+
+
+#banner{
+    position: relative;
+    text-align: center;
+    color: white;
+
+}
+#bantext {
+    position: absolute;
+    top: 120px;
+    left: 10px;
+    font-size: 2rem;
+    
+    color: #fff;
+    text-transform: uppercase;
+    transition: all 4s ease-in-out;
+}
+#banner h2{
+    text-decoration: none;
+}
+table {
+    border-collapse: collapse;
+}
+td, th {
+    border: 1px solid #cccccc;
+    padding: 10px;
+}
+th {
+    font-weight: bold;
+    text-transform: uppercase;
+}
+.thead {
+    color: blue;
+}
